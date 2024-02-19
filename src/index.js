@@ -4,6 +4,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';//App은 default 값을 가져오고 {App}은 함수명이 같은 것을 가져온다
 import Hello from './Hello';
+import './App.css';
 //import {App, App2} from './App';//App은 default 값을 가져오고 {App}은 함수명이 같은 것을 가져온다
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
