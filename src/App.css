@@ -1,7 +1,7 @@
 .hello {
-  backgroundColor: 'black';
-  color: 'aqua';
-  fontSize: 24; 
-  padding: '1rem';
+  background: black;
+  color: aqua;
+  font-size: 24; 
+  padding: 1rem;
 }
 /*  기본 단위 px,다른 단위 사용 시 문자열로 설정 */
